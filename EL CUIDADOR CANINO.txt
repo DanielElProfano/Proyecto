@@ -1,0 +1,28 @@
+EL CUIDADOR CANINO.COM
+
+	Para la realización del html he usado los conceptos aprendidos de listas, tablas, imágenes, formularios y enlaces.
+
+	He preferido usar para cada sección una página diferente para que quede más limpia y presentable, todas ellas con un enlace a la página principal o home.
+
+	En el cuidador canino se ofrecen varios servicios y en cada sección se detallan en qué consisten cada uno.
+
+	- Guardería.
+	- Paseo.
+	- Peluquería.
+	- Adiestramiento.
+	- Tarífas.
+	- Contacto.
+	
+
+	Se puede  navegar desde la página principal a cualquier seccion mediante enlaces.
+
+	He intentado mantener las misma etiquetas para cada sección. Usando h1 sólo para el titulo de la página web y la h2 para las distintas secciónes. 
+	
+	Todas las imágenes está sacadas de internet.
+
+	Todos los textos han sido escritos por mi.
+
+	También he puesto un enlace a las redes sociales facebook e instagram que actualmente funciona.
+
+Daniel González Guijarro.
+
